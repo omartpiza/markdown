@@ -13,8 +13,11 @@
     -Para crear un encabezado se requiere utilizar el simbolo #
   
      - ¿Cuántos necesitas para crear el título más grande?
+       
       - Para crear el titulo mas grande solo se necesita 1 simbolo numeral #
+       
      - ¿Cuántos necesitas para crear el título más pequeño?
+       
       - Para crear el simbolo mas pequeño se necesitan 6 simbolos numeral ###### 
   
    4.***Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?***
@@ -22,6 +25,7 @@
     
    5.***¿Cómo se crea un vínculo con Markdown?***
     - Para crear un vinculo se escribe el texto del vinculo entre corchetes [ ] y el URL entre parentesis () .
+      
    6.***¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?***
     - los tres simbolos que se pueden utilizar para crear una lista desordenada son el asterisco * , el guion - o el simbolo de suma +
 
