@@ -2,7 +2,6 @@
 
 - A continuación se muestran las principales preguntas de una colección de recursos que describen los temas de la conferencia.
   
-  ## **Preguntas**
   
    1.***¿Que es el Markdown?***
     - Es una herramienta de conversion de texto plano a HTML.
