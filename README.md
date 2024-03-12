@@ -32,9 +32,9 @@
 
 ### Enlaces de informacion
 
-- (https://markdown.es/)
+- [¿Que es Markdown?](https://markdown.es/)
   
-- (https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-[Sintaxis del Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Autor
 Omar Torbisco
