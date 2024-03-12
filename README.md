@@ -9,6 +9,7 @@
     - Porque es compatible con todas las plataformas y permite mantener todo tu contenido siempre accesible a cualquier dispositivo.
     
    3.***¿Qué símbolo creará un encabezado en Markdown?***
+  
     -Para crear un encabezado se requiere utilizar el simbolo #
   
      - ¿Cuántos necesitas para crear el título más grande?
