@@ -33,4 +33,4 @@ Omar Torbisco
 ### Creacion
 - Lunes 11 de marzo del 2024.
 
-Enlace del creador de contenido [omartpiza](https://github.com/omartpiza/markdown)
+Enlace del creador de contenido [omartpiza](https://omartpiza.github.io/markdown/)
