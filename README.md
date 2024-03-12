@@ -31,7 +31,9 @@
     - los tres simbolos que se pueden utilizar para crear una lista desordenada son el asterisco * , el guion - o el simbolo de suma +
 
 ### Enlaces de informacion
+
 - (https://markdown.es/)
+  
 - (https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Autor
