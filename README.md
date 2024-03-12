@@ -15,11 +15,11 @@
   
      - ¿Cuántos necesitas para crear el título más grande?
        
-      - Para crear el titulo mas grande solo se necesita 1 simbolo numeral #
+       - Para crear el titulo mas grande solo se necesita 1 simbolo numeral #
        
      - ¿Cuántos necesitas para crear el título más pequeño?
        
-      - Para crear el simbolo mas pequeño se necesitan 6 simbolos numeral ###### 
+       - Para crear el simbolo mas pequeño se necesitan 6 simbolos numeral ###### 
   
    4.***Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?***
     - el simbolo que se utiliza el asterisco al inicio y al final *. Para negrita **, para crusiva * * y para negrita cursiva *** .
