@@ -1,29 +1,29 @@
 # Markdown
 - A continuación se muestran las principales preguntas de una colección de recursos que describen los temas de la conferencia.
-  ## recordatorios para mantenerse con una **Growth Mindset**
+  ## **Preguntas**
   
    1.***¿Que es el Markdown?***
-    - Enfrenta desafíos como chances para crecer, no amenazas a tu habilidad.
+    - Es una herramienta de conversion de texto plano a HTML.
     
    2.***¿Por qué utilizamos Markdown?***
-    - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+    - Porque es compatible con todas las plataformas y permite mantener todo tu contenido siempre accesible a cualquier dispositivo.
     
    3.***¿Qué símbolo creará un encabezado en Markdown?***
-    - ¿Cuántos necesitas para crear el título más grande?
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
-    - ¿Cuántos necesitas para crear el título más pequeño?
-      - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+    -Para crear un encabezado se requiere utilizar el simbolo #
+     - ¿Cuántos necesitas para crear el título más grande?
+      - Para crear el titulo mas grande solo se necesita 1 simbolo numeral #
+     - ¿Cuántos necesitas para crear el título más pequeño?
+      - Para crear el simbolo mas pequeño se necesitan 6 simbolos numeral ###### 
   
    4.***Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?***
-    - Enfrenta desafíos como chances para crecer, no amenazas a tu habilidad.
+    - el simbolo que se utiliza el asterisco al inicio y al final *. Para negrita **, para crusiva * * y para negrita cursiva *** .
     
    5.***¿Cómo se crea un vínculo con Markdown?***
-    - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
-    
+    - Para crear un vinculo se escribe el texto del vinculo entre corchetes [ ] y el URL entre parentesis () .
    6.***¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?***
-    - Considera el fracaso como un paso hacia el éxito, no como falta de habilidad.
+    - los tres simbolos que se pueden utilizar para crear una lista desordenada son el asterisco * , el guion - o el simbolo de suma +
 
-### Enlaces
+### Enlaces de informacion
 - (https://markdown.es/)
 - (https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
