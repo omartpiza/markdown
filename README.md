@@ -10,6 +10,7 @@
     
    3.***¿Qué símbolo creará un encabezado en Markdown?***
     -Para crear un encabezado se requiere utilizar el simbolo #
+  
      - ¿Cuántos necesitas para crear el título más grande?
       - Para crear el titulo mas grande solo se necesita 1 simbolo numeral #
      - ¿Cuántos necesitas para crear el título más pequeño?
